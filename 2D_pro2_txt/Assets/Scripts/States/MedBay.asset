@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2859d4ad1844e56449af2c06b0d64a18, type: 3}
   m_Name: MedBay
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStateArray: []
+  storyText: "The med bay.  A sterile enviroment with an uncoutable array of gadets
+    that look as if to poke and prod someone. \n\n-Left goes to a hallway. \n-Lay
+    back on the Med bed."
+  nextStateArray:
+  - {fileID: 11400000, guid: 8e5d2faec585fb44791e4292ef411a64, type: 2}
+  - {fileID: 11400000, guid: 3ec42c35c28471f4ab9d48e8eb5b97b2, type: 2}

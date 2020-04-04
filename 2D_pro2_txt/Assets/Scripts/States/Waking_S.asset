@@ -14,22 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: 'You feel cold... Not just the air around you,
 
-    but a sting of
-    something hard and cool against
+    but a sting of something
+    hard and cool against
 
-    your back. You''re groggy but your inner
-    voice
+    your back. You''re groggy but your inner voice
 
-    tells you to waaaaake... Waake... wake...
+    tells
+    you to waaaaake... Waake... wake...
 
     "Wake"... "WAKE"....
 
-    
+
+
+    - Wake up
 
     -
-    Wake up
-
-    - Give in to your tiredness'
+    Give in to your tiredness'
   nextStateArray:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: fff8e39e9a700634e904c32f5df8b20a, type: 2}
+  - {fileID: 11400000, guid: 3ec42c35c28471f4ab9d48e8eb5b97b2, type: 2}

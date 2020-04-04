@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
+using System;
 
 public class AdventureGame : MonoBehaviour
 {
@@ -26,6 +27,11 @@ public class AdventureGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        ManageState();
+    }
+
+    private void ManageState()
+    {
+        throw new NotImplementedException();
     }
 }
